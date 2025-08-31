@@ -62,22 +62,6 @@ Provide your contact information or links to social profiles where users can rea
 
 ***
 
-This template balances professionalism and clarity, promoting ease of understanding and engagement for anyone visiting your repository. Would you like a tailored version specific to your project now?[^1][^3]
-<span style="display:none">[^2][^4][^5][^6][^7][^8][^9]</span>
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-
-[^2]: https://github.com/matiassingers/awesome-readme
-
-[^3]: https://github.com/othneildrew/Best-README-Template
-
-[^4]: https://dev.to/github/10-standout-github-profile-readmes-h2o
-
-[^5]: https://www.youtube.com/watch?v=rCt9DatF63I
-
-[^6]: https://www.reddit.com/r/github/comments/uulygm/what_are_some_really_nice_github_profile_readmes/
 
 [^7]: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 
